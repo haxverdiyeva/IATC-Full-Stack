@@ -1,0 +1,14 @@
+body
+{
+ font-size: 60 px;
+ background-color:rgb(220, 224, 224)
+}
+form
+{
+display: flex;
+justify-content: center;
+}
+caption
+{
+    margin-bottom: 40px;
+}
